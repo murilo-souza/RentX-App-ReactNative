@@ -1,4 +1,4 @@
-import React, { useState } from'react'
+import React, { useEffect, useState } from'react'
 import { Alert, KeyboardAvoidingView, StatusBar} from 'react-native';
 import { useTheme } from 'styled-components';
 import { Button } from '../../components/Button';
@@ -16,6 +16,7 @@ import{
 }from'./styles';
 import { useNavigation } from '@react-navigation/native';
 import { useAuth } from '../../hooks/auth';
+import {database} from '../../databases'
 
 interface NavigationProps{
     navigate: (screen: string) => void
@@ -52,6 +53,14 @@ export function SignIn(){
         navigation.navigate('SignUpFirtsStep')
     }
 
+    useEffect(()=>{
+        async function loadData(){
+            const userCollection = database.get('users')
+            const users = await userCollection.query().fetch()
+
+            console.log(users)
+        }
+    },[])
     return (
         <KeyboardAvoidingView behavior='position' enabled> 
             <Container>
