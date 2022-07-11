@@ -53,14 +53,7 @@ export function SignIn(){
         navigation.navigate('SignUpFirtsStep')
     }
 
-    useEffect(()=>{
-        async function loadData(){
-            const userCollection = database.get('users')
-            const users = await userCollection.query().fetch()
-
-            console.log(users)
-        }
-    },[])
+   
     return (
         <KeyboardAvoidingView behavior='position' enabled> 
             <Container>
