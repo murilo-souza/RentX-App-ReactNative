@@ -10,7 +10,8 @@ if (__DEV__) {
     "exported from 'deprecated-react-native-prop-types'.",
     "Non-serializable values were found in the navigation state.",
     "VirtualizedLists should never be nested inside plain ScrollViews",
-    "expo-app-loading is deprecated in favor of expo-splash-screen:"
+    "expo-app-loading is deprecated in favor of expo-splash-screen:",
+    "Found screens with the same name nested inside one another. Check"
   ];
 
   const warn = console.warn;
