@@ -13,6 +13,7 @@
   <li><a href="https://reactnative.dev/">React Native</a></li>
   <li><a href="https://nozbe.github.io/WatermelonDB/Installation.html">WaterMelon DB</a></li>
   <li><a href="https://reactnavigation.org/">React Navigation</a></li>
+  <li><a href="https://docs.expo.dev/tutorial/image-picker/#installing-expo-image-picker">Expo image picker</a></li>
   <li><a href="https://styled-components.com/">Styled components</a></li>
   <li><a href="https://www.npmjs.com/package/react-native-calendars">React Native Calendars</a></li>
   <li><a href="https://docs.swmansion.com/react-native-reanimated/">React Native Reanimated</a></li>
