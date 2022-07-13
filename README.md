@@ -8,6 +8,7 @@
 <ul>
   <li><a href="https://docs.expo.dev/">Expo</a></li>
   <li><a href="https://axios-http.com/ptbr/docs/intro">Axios</a></li>
+   <li><a href="https://docs.expo.dev/versions/latest/sdk/netinfo/">NetInfo</a></li>
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   <li><a href="https://reactnative.dev/">React Native</a></li>
   <li><a href="https://nozbe.github.io/WatermelonDB/Installation.html">WaterMelon DB</a></li>
