@@ -1,4 +1,8 @@
 <h1 align="center">RentX</h1>
+
+![Capa](https://user-images.githubusercontent.com/53982668/181617879-0ca5b733-5422-4700-b9a1-8745fe127e43.png)
+
+
 <br/>
 
 <h2>Project</h2>
