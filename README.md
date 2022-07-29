@@ -5,9 +5,6 @@
 
 <br/>
 
-<h2>Project</h2>
-<p></p>
-
 <h2>Technologies</h2>
 <ul>
   <li><a href="https://docs.expo.dev/">Expo</a></li>
