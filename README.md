@@ -5,7 +5,7 @@
 
 <br/>
 
-<h2>Technologies</h2>
+<h2>Stack</h2>
 <ul>
   <li><a href="https://docs.expo.dev/">Expo</a></li>
   <li><a href="https://axios-http.com/ptbr/docs/intro">Axios</a></li>
