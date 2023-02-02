@@ -22,12 +22,12 @@
 
 <h2>Features</h2>
 <ul>
-  <li>User authentication</li>
-  <li>Create new user</li>
+  <li>Rent cars</li>
   <li>Profile Update</li>
+  <li>Create new user</li>
   <li>List my rental cars</li>
   <li>List cars avaiables</li>
-  <li>Rent cars</li>
+  <li>User authentication</li>
   <li>And more...</li>
 </ul>
 
