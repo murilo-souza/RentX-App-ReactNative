@@ -34,3 +34,6 @@
 
 <h2>Layout</h2>
 <p>To see the complet layout of the application, access the <a href='https://www.figma.com/file/6o56yAMhKoOR8chUb5x0DO/RentX-Ignite-(Copy)'>Link</a></p>
+
+<h2>Video</h2>
+<p>To watch the application video, access the <a href="https://www.linkedin.com/posts/murilo-leme-de-souza_react-reactnative-frontend-activity-6964672813379006464-vGSi?utm_source=share&utm_medium=member_desktop">Link<a/>
